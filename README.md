@@ -1,4 +1,4 @@
-# proyek-submission-bookshelf-api
+# bookshelf-api-hapijs
 Proyek Submission Bookshelf API | Tugas Akhir Kelas Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud
 
 Kriteria
